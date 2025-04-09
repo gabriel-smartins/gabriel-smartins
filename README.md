@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gabriel Martins
+# 👋 Olá! Seja Bem-Vindo!
 
 💻 Desenvolvedor Full Stack  
 🚀 Entusiasta de tecnologia, cultura geek e inovação  
@@ -25,5 +25,5 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gabriel-martins-2588b7291/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat)](mailto:gab.smartinn@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:gab.smartinn@outlook.com)
 
