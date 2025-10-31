@@ -6,6 +6,10 @@
 
 ###
 
+<div class="tenor-gif-embed" data-postid="14390156" data-share-method="host" data-aspect-ratio="1.61616" data-width="100%"><a href="https://tenor.com/view/dog-quality-assurance-quality-qa-iqc-gif-14390156">Dog Quality Assurance GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
