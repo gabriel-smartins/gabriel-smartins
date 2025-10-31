@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-![Dog Quality Assurance GIF](https://media.tenor.com/1-K-T1-y-OIAAAAM/dog-quality-assurance.gif)
+![Dog Quality Assurance GIF](https://i.imgur.com/Q3cUb7s.gif)
 
 ###
 
