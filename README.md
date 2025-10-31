@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Gabriel, nice to see you here! 👋<br><br>I'm a FullStack Developer focused on the TypeScript ecosystem. I work with the complete stack, from building reactive interfaces with React to modeling PostgreSQL and MongoDB databases.<br><br>However, my main interest and passion are on the backend. I love the challenge of building business logic, designing efficient APIs (using Fastify and Express), and optimizing database communication (with Prisma ORM).<br><br>Currently, my studies are fully dedicated to NestJS, as I aim to build increasingly robust and scalable backend solutions.<br><br>When I'm not coding, I'm probably diving into geek culture. 🤓</p>
+<p align="left">Hi! I'm Gabriel, nice to see you here! 👋<br><br>I'm a FullStack Developer focused on JavaScript and TypeScript ecosystem. I work with the complete stack, from building reactive interfaces with React to modeling PostgreSQL and MongoDB databases.<br><br>However, my main interest and passion are on the backend. I love the challenge of building business logic, designing efficient APIs (using Fastify and Express), and optimizing database communication (with Prisma ORM).<br><br>Currently, my studies are fully dedicated to NestJS, as I aim to build increasingly robust and scalable backend solutions.<br><br>When I'm not coding, I'm probably diving into geek culture. 🤓</p>
 
 ###
 
