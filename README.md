@@ -29,8 +29,6 @@
   <img src="https://skillicons.dev/icons?i=git,docker,linux,jest,vitest,npm" height="45" alt="tools" />
 </div>
 
-### 📊 GitHub Stats
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-smartins/gabriel-smartins/output/github-contribution-grid-snake-dark.svg">
