@@ -31,24 +31,16 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/gabriel-smartins">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-smartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel's Github Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/gabriel-smartins">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-smartins&layout=compact&langs_count=8&theme=dracula&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/gabriel-smartins/gabriel-smartins/output/snake.svg" alt="Snake animation" />
 
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="www.linkedin.com/in/gabriel-martins-2588b7291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:gab.smartinn@outlook.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email" />
   </a>
 </div>
 
