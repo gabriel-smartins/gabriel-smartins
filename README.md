@@ -9,7 +9,7 @@
 <p align="center">
   I'm a <strong>FullStack Developer</strong> driven by the logic behind the screen.<br>
   I navigate the entire <strong>JavaScript/TypeScript</strong> ecosystem, building reactive interfaces with <strong>React</strong> and <strong>Next.js</strong>.<br><br>
-  My true passion lies in the <strong>Backend</strong>, designing microservices and robust distributed architectures with<br>
+  My true passion lies in the <strong>Backend</strong> — designing scalable APIs and robust architectures with<br>
   <strong>Node.js (NestJS / Express)</strong> and <strong>Java (Spring Boot)</strong>, always focused on performance,<br>
   thoughtful database modeling and best practices like <strong>DDD</strong> and <strong>Clean Architecture</strong>.
 </p>
@@ -17,8 +17,9 @@
 <br>
 
 <p align="center">
+  🔭 &nbsp;Currently working on: <strong>APIs with Spring Boot + Kafka</strong><br>
   📚 &nbsp;Currently studying: <strong>AWS · Kubernetes · Distributed Systems</strong><br>
-  💬 &nbsp;Ask me about: <strong>NestJS · Spring Boot · Clean Architecture</strong>
+  💬 &nbsp;Ask me about: <strong>NestJS · Spring Boot · Clean Architecture · DDD</strong>
 </p>
 
 <br>
@@ -60,7 +61,7 @@
   <br><br>
 
   <p><strong>Testing</strong></p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest" height="45" alt="testing" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,postman" height="45" alt="testing" />
 
 </div>
 
@@ -73,6 +74,12 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabriel-smartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-smartins&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabriel-smartins&theme=tokyonight&hide_border=true" alt="github streak" />
 </div>
 
 <br>
