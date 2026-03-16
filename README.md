@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! I'm Gabriel 👋</h1>
 
 <p align="center">
-  <em>FullStack Developer · Backend Specialist · Clean Architecture Enthusiast</em>
+  <em>FullStack Developer · Backend Specialist · Geek Culture Enthusiast</em>
 </p>
 
 <br>
