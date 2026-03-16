@@ -77,12 +77,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabriel-smartins&theme=tokyonight&hide_border=true" alt="github streak" />
-</div>
-
-<br>
-
 ---
 
 ### 🐍 Contribution Graph
