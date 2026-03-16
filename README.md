@@ -9,7 +9,7 @@
 <p align="center">
   I'm a <strong>FullStack Developer</strong> driven by the logic behind the screen.<br>
   I navigate the entire <strong>JavaScript/TypeScript</strong> ecosystem, building reactive interfaces with <strong>React</strong> and <strong>Next.js</strong>.<br><br>
-  My true passion lies in the <strong>Backend</strong>, designing scalable APIs and robust architectures with<br>
+  My true passion lies in the <strong>Backend</strong>, designing microservices and robust distributed architectures with<br>
   <strong>Node.js (NestJS / Express)</strong> and <strong>Java (Spring Boot)</strong>, always focused on performance,<br>
   thoughtful database modeling and best practices like <strong>DDD</strong> and <strong>Clean Architecture</strong>.
 </p>
