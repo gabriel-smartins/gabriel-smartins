@@ -17,9 +17,8 @@
 <br>
 
 <p align="center">
-  🔭 &nbsp;Currently working on: <strong>APIs with Spring Boot + Kafka</strong><br>
   📚 &nbsp;Currently studying: <strong>AWS · Kubernetes · Distributed Systems</strong><br>
-  💬 &nbsp;Ask me about: <strong>NestJS · Spring Boot · Clean Architecture · DDD</strong>
+  💬 &nbsp;Ask me about: <strong>NestJS · Spring Boot · Clean Architecture</strong>
 </p>
 
 <br>
