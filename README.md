@@ -1,33 +1,92 @@
 <h1 align="center">Hello, World! I'm Gabriel 👋</h1>
 
 <p align="center">
-  <em>FullStack Developer | Backend Specialist | Clean Architecture Enthusiast</em>
+  <em>FullStack Developer · Backend Specialist · Clean Architecture Enthusiast</em>
 </p>
 
-<p align="left">
-   I am a <strong>FullStack Developer</strong> driven by the logic behind the screen. I navigate easily through the entire <strong>JavaScript/TypeScript ecosystem</strong>, building reactive interfaces with <strong>React</strong> and <strong>Next.js</strong>.
-   <br><br>
-   However, my true expertise and passion lie in the <strong>Backend</strong>. I specialize in building scalable APIs and robust architectures using both <strong>Node.js (NestJS/Express)</strong> and <strong>Java (Spring Boot)</strong>. I am constantly focused on performance, database modeling (SQL/NoSQL), and applying best practices like <strong>DDD</strong> and <strong>Clean Architecture</strong>.
+<br>
+
+<p align="center">
+  I'm a <strong>FullStack Developer</strong> driven by the logic behind the screen.<br>
+  I navigate the entire <strong>JavaScript/TypeScript</strong> ecosystem, building reactive interfaces with <strong>React</strong> and <strong>Next.js</strong>.<br><br>
+  My true passion lies in the <strong>Backend</strong> — designing scalable APIs and robust architectures with<br>
+  <strong>Node.js (NestJS / Express)</strong> and <strong>Java (Spring Boot)</strong>, always focused on performance,<br>
+  thoughtful database modeling and best practices like <strong>DDD</strong> and <strong>Clean Architecture</strong>.
 </p>
+
+<br>
+
+<p align="center">
+  🔭 &nbsp;Currently working on: <strong>APIs with Spring Boot + Kafka</strong><br>
+  📚 &nbsp;Currently studying: <strong>AWS · Kubernetes · Distributed Systems</strong><br>
+  💬 &nbsp;Ask me about: <strong>NestJS · Spring Boot · Clean Architecture · DDD</strong>
+</p>
+
+<br>
+
+---
 
 ### 🚀 Tech Stack
 
 <div align="center">
+
   <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=ts,js,java" height="45" alt="languages" />
-  <br>
 
-  <p><strong>Backend & Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,postgres,mongodb,prisma" height="45" alt="backend" />
-  <br>
+  <br><br>
+
+  <p><strong>Backend & Architecture</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring" height="45" alt="backend frameworks" />
+
+  <br><br>
+
+  <p><strong>Databases & Cache</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" height="45" alt="databases" />
+
+  <br><br>
+
+  <p><strong>Messaging & DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,githubactions,linux" height="45" alt="messaging and devops" />
+
+  <br><br>
+
+  <p><strong>Cloud & Build Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=aws,maven,gradle,git" height="45" alt="cloud and build tools" />
+
+  <br><br>
 
   <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" alt="frontend" />
-  <br>
-  
-  <p><strong>Tools & DevOps</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,jest,vitest,npm" height="45" alt="tools" />
+
+  <br><br>
+
+  <p><strong>Testing</strong></p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" height="45" alt="testing" />
+
 </div>
+
+<br>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabriel-smartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-smartins&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabriel-smartins&theme=tokyonight&hide_border=true" alt="github streak" />
+</div>
+
+<br>
+
+---
+
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -37,18 +96,24 @@
   </picture>
 </div>
 
+<br>
+
+---
+
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-martins-2588b7291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/gabriel-martins-2588b7291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:gab.smartinn@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="email" />
+  &nbsp;
+  <a href="mailto:gab.smartinn@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-smartins.gabriel-smartins" alt="visitor badge"/>
 </div>
